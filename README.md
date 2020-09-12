@@ -1,2 +1,2 @@
 # building-bokeh-Django
-build of graphy in bokeh
+Here be a simple application of the bokeh/Django. where, with the helping a relational database, builded a BI.
